@@ -47,9 +47,9 @@ By completing this chapter, you’ll learn:
 | File Name | Description |
 |------------|-------------|
 | `Patterns.cpp` | Covers simple square and right-angled triangle patterns |
-| `Patterns 1.cpp` | Number-based and row-number repetition patterns |
-                   | Character and alphabet-based pyramids | 
-                   | Inverted, diamond, and mirror patterns |
+| `Patterns 1.cpp` | Number-based and row-number repetition patterns
+                     Character and alphabet-based pyramids 
+                     Inverted, diamond, and mirror pattern |
 
 
 > 💡 Each file includes **inline comments** and **expected output previews** to help readers easily understand the logic.
