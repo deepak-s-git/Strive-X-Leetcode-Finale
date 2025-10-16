@@ -33,11 +33,11 @@ By completing this chapter, you’ll learn:
 
 ## 🧠 Concepts Reinforced
 
-- **Nested Loops Logic**
-- **Row vs Column control**
-- **Pattern Symmetry**
-- **Incremental Thinking**
-- **Character and Number Printing**
+- **Nested Loops Logic**  
+- **Row vs Column Control**  
+- **Pattern Symmetry**  
+- **Incremental Thinking**  
+- **Character and Number Printing**  
 - **Dry-running for Output Visualization**
 
 ---
@@ -47,10 +47,7 @@ By completing this chapter, you’ll learn:
 | File Name | Description |
 |------------|-------------|
 | `Patterns.cpp` | Covers simple square and right-angled triangle patterns |
-| `Patterns 1.cpp` | Number-based and row-number repetition patterns
-                     Character and alphabet-based pyramids 
-                     Inverted, diamond, and mirror pattern |
-
+| `Patterns 1.cpp` | Number-based and row-number repetition patterns<br>Character and alphabet-based pyramids<br>Inverted, diamond, and mirror patterns |
 
 > 💡 Each file includes **inline comments** and **expected output previews** to help readers easily understand the logic.
 
@@ -59,7 +56,8 @@ By completing this chapter, you’ll learn:
 ## 🏁 Chapter Outcome
 
 By the end of this chapter, you’ll be able to:
-- Confidently handle **any loop-based question**
-- Visualize and build **complex shapes** logically
-- Strengthen your **coding flow and debugging ability**
-- Prepare for **loop, logic, and space-based** interview questions
+
+- Confidently handle **any loop-based question**  
+- Visualize and build **complex shapes** logically  
+- Strengthen your **coding flow and debugging ability**  
+- Prepare for **loop, logic, and space-based interview questions**
