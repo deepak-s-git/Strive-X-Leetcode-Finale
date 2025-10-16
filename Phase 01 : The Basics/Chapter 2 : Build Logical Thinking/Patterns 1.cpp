@@ -4,15 +4,6 @@
 📘 PHASE 1: Learn Basics (Patterns and Logic Building)
 -----------------------------------------------------------
 
-This file includes:
-1️⃣ Full Diamond Pattern
-2️⃣ Mirror Diamond (Symmetrical)
-3️⃣ Binary Number Pattern (0/1)
-4️⃣ Number Pyramid (Mirror Numbers)
-5️⃣ Increasing Number Triangle
-6️⃣ Alphabet Triangle (Sequential & Static)
-7️⃣ Decreasing Alphabet Pattern
-8️⃣ Alphabet Pyramid (A-Z Symmetry)
 
 Each pattern helps understand:
 - Loop control (nested loops)
