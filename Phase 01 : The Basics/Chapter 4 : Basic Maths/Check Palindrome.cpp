@@ -56,9 +56,9 @@ int main() {
     cin >> n;
 
     if (isPalindrome(n))
-        cout << n << " is a Palindrome Number ✅\n";
+        cout << n << " is a Palindrome Number \n";
     else
-        cout << n << " is Not a Palindrome ❌\n";
+        cout << n << " is Not a Palindrome \n";
 
     return 0;
 }
