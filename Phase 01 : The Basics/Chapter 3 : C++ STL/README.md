@@ -24,10 +24,15 @@ The Standard Template Library (STL) is a collection of template-based classes an
 ## 🧩 STL Containers: Pair and Vector
 
 ### Pair
-Stores two heterogeneous objects.
+A simple container that stores two heterogeneous objects as a single unit.
+
+**Key Points**
+- Access using `.first` and `.second`
+- Commonly used in `map`, `priority_queue`, and algorithms.
+
+```cpp
 pair<int, string> p = {1, "Hello"};
 cout << p.first << " " << p.second;
-
 ---
 
 ### 📦 Vector (Dynamic Array)
@@ -132,17 +137,16 @@ mp.emplace(2, "Two");
 ---
 
 ### 🗃️ Multimap
-Allows **duplicate keys**, sorted order maintained.
+Allows duplicate keys, maintains sorted order.
+
+Use Case: When multiple values share the same key.
+
+multimap<int, string> mm;
+mm.insert({1, "A"});
+mm.insert({1, "B"});
 
 
-- Functions: `insert()`, `emplace()`, `erase()`, `find()`
-- Complexity: O(log n)
-
----
-
-### 🗃️ Multimap
-Allows **duplicate keys**, sorted order maintained.
-
+Time Complexity: O(log n)
 
 ---
 
