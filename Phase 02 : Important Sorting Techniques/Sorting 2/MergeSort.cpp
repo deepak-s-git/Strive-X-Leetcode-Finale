@@ -1,6 +1,5 @@
 /************************************************************
  * 📘 Phase 2 — Sorting (Part 2)
- * File : 04_Merge_Sort.cpp
  *
  * Algorithm: Merge Sort (Divide & Conquer)
  *
